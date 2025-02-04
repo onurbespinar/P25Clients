@@ -180,6 +180,8 @@
 # 1402 DuckFar Repeater Group, Chicago
 1402	duckfarw9bmk.gotdns.com	43000
 
+#1453 dmr.pistar.com.tr 41000
+
 # 1701 Sector 001
 1701	hamsomniac.mooo.com	41001
 
